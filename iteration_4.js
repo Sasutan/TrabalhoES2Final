@@ -20,6 +20,6 @@ class Magia {
   
   for (const magia of grimorio.iterator()) {
     console.log(magia); 
-    // Saída: TV, Laptop, Apple, Banana, Shirt, Pants
+
   }
   
